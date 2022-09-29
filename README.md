@@ -5,13 +5,13 @@
 </div>
 <div id="badges">
   <a href="your-VK-URL">
-   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="[VK Badge](https://vk.com/xobbba)"/>
   </a>
   <a href="your-instagram-URL">
-    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="[Instagram Badge](https://www.instagram.com/xobbba/)"/>
   </a>
   <a href="your-telegram-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="[Telegram Badge](https://t.me/xobbba)"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=xobbba&style=flat-square&color=blue" alt=""/>
