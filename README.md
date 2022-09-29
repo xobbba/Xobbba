@@ -4,13 +4,13 @@
 <div id="badges">
 </div>
 <div id="badges">
-  <a href="[your-VK-URL](https://vk.com/xobbba)">
+  <a href="https://vk.com/xobbba">
    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="[Instagram Badge](https://www.instagram.com/xobbba/)">
+  <a href="https://www.instagram.com/xobbba/">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="[Telegram Badge](https://t.me/xobbba)">
+  <a href="https://t.me/xobbba">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
